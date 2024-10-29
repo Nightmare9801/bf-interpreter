@@ -22,7 +22,7 @@ To run the interpreter, use the following command:
 ### Features
 -File input: Takes a Brainfuck program file as command line input.
 -Basic Brainfuck instruction support:
-  - >: Move the pointer to the right.
+  - \>: Move the pointer to the right.
   - <: Move the pointer to the left.
   - +: Increment the value at the current pointer.
   - -: Decrement the value at the current pointer.
